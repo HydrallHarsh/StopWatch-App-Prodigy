@@ -1,16 +1,47 @@
-# stopwatch_timer
+# StopWatch App
 
-A new Flutter project.
+StopWatch App is a Flutter application that allows users to measure time intervals with precision. It supports multiple platforms including Android, iOS, Linux, macOS, Windows, and web.
+
+## Features
+
+- Start, stop, and reset stopwatch functionality
+- Lap time recording
+- User-friendly interface
+- Cross-platform support
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter](https://flutter.dev/docs/get-started/install) (version 2.0 or later)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/HydrallHarsh/StopWatch-App-Prodigy.git
+    cd StopWatch-App-Prodigy
+    ```
+
+2. Install dependencies:
+    ```sh
+    flutter pub get
+    ```
+
+3. Run the app:
+    ```sh
+    flutter run
+    ```
+
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request for any bug fixes, features, or improvements.
+
+## Contact
+
+Harsh - [Email](harsh.santwani0303@gmail.com)
+
+Project Link: [https://github.com/HydrallHarsh/StopWatch-App-Prodigy](https://github.com/HydrallHarsh/StopWatch-App-Prodigy)
+
+
